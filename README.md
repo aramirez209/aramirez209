@@ -11,7 +11,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/analya-ramirez-004035163](https://www.linkedin.com/in/analya-ramirez-004035163)
 
-- ⚡ Fun fact **I think i am funny**
+- ⚡ Fun fact **In my head i am an undercover detective**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
