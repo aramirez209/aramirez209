@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Analya Ramirez</h1>
 <h3 align="center">A passionate Business Analyst from United States</h3>
 
-- 🔭 I’m currently working on **Masters in Data Science**
+- 🔭 I have a **Masters in Data Science**
 
 - 🌱 I’m currently learning **Apache Systems**
 
