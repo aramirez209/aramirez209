@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Apache Systems**
 
-- 👨‍💻 All of my projects are available at [link](link)
+- 👨‍💻 All of my projects are available at https://analyaramirez.github.io/github-portfolio/
 
 - 📫 How to reach me **analya_ramirez209@yahoo.com**
 
